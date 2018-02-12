@@ -19,6 +19,7 @@ function Geo() {
     DD: { coefficient: 0.119303,                label: "double decker buses"},
     BW: { coefficient: 0.033333,                label: "blue whales"},
     JO: { coefficient: 0.000001,                label: "trips from Land's End to John O'Groats"},
+    EP: { coefficient: 0.833333,                label: "average emperor penguins"},
     //
     //convert:
     //
